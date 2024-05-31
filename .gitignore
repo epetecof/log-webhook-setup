@@ -2,3 +2,5 @@
 /test/venv
 /test/params.json
 .DS_Store
+/test/__pycache__
+*.pyc
