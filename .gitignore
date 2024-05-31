@@ -1,0 +1,4 @@
+/test/.env
+/test/venv
+/test/params.json
+.DS_Store
