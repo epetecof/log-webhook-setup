@@ -1,0 +1,4 @@
+export aws_secret_access_key=
+export aws_secret_key_secret=
+export aws_secret_region=
+export aws_secret_bucket=
